@@ -17,7 +17,6 @@ export class NavesService {
     return this.http.get<Naves[]>(this.apiUrl);
   }
 
-  getBando
   
 
 }
